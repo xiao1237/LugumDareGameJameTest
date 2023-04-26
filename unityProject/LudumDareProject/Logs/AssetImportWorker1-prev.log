@@ -1,23 +1,23 @@
 Using pre-set license
 Built from '2021.3/china_unity/release' branch; Version is '2021.3.18f1c1 (93698379025b) revision 9660803'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22621) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 32492 MB
+OS: 'Windows 11  (10.0.22621) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 65154 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-D:\Unity 2022.1.23f1c1\Unity Hub\2021.3.18f1c1\Editor\Unity.exe
+D:\Unity\UnityDifferentVertions\2021.3.18f1c1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker1
 -projectPath
-D:/ludum dare202304/LugumDareGameJameTest/LugumDareGameJameTest/unityProject/LudumDareProject
+C:/Users/Zhangzonshuai/Documents/GitHub/LugumDareGameJameTest/unityProject/LudumDareProject
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-57720
-Successfully changed project path to: D:/ludum dare202304/LugumDareGameJameTest/LugumDareGameJameTest/unityProject/LudumDareProject
-D:/ludum dare202304/LugumDareGameJameTest/LugumDareGameJameTest/unityProject/LudumDareProject
+50228
+Successfully changed project path to: C:/Users/Zhangzonshuai/Documents/GitHub/LugumDareGameJameTest/unityProject/LudumDareProject
+C:/Users/Zhangzonshuai/Documents/GitHub/LugumDareGameJameTest/unityProject/LudumDareProject
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,110 +47,113 @@ D:/ludum dare202304/LugumDareGameJameTest/LugumDareGameJameTest/unityProject/Lud
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [20188] Host "[IP] 192.168.1.85 [Port] 0 [Flags] 2 [Guid] 221766853 [EditorId] 221766853 [Version] 1048832 [Id] WindowsEditor(7,³Ìç¯W) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [4364] Host "[IP] 172.27.143.135 [Port] 0 [Flags] 2 [Guid] 378794834 [EditorId] 378794834 [Version] 1048832 [Id] WindowsEditor(7,Barry) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [20188] Host "[IP] 192.168.1.85 [Port] 0 [Flags] 2 [Guid] 221766853 [EditorId] 221766853 [Version] 1048832 [Id] WindowsEditor(7,³Ìç¯W) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [4364] Host "[IP] 172.27.143.135 [Port] 0 [Flags] 2 [Guid] 378794834 [EditorId] 378794834 [Version] 1048832 [Id] WindowsEditor(7,Barry) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 AS: AutoStreaming module initializing.
-Refreshing native plugins compatible for Editor in 62.59 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 62.95 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.18f1c1 (93698379025b)
-[Subsystems] Discovering subsystems at path D:/Unity 2022.1.23f1c1/Unity Hub/2021.3.18f1c1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/ludum dare202304/LugumDareGameJameTest/LugumDareGameJameTest/unityProject/LudumDareProject/Assets
+[Subsystems] Discovering subsystems at path D:/Unity/UnityDifferentVertions/2021.3.18f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Zhangzonshuai/Documents/GitHub/LugumDareGameJameTest/unityProject/LudumDareProject/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 3070 Ti Laptop GPU (ID=0x24e0)
+    Renderer: NVIDIA GeForce RTX 4080 Laptop GPU (ID=0x27e0)
     Vendor:   NVIDIA
-    VRAM:     8043 MB
-    Driver:   31.0.15.1700
+    VRAM:     12011 MB
+    Driver:   31.0.15.2866
 Initialize mono
-Mono path[0] = 'D:/Unity 2022.1.23f1c1/Unity Hub/2021.3.18f1c1/Editor/Data/Managed'
-Mono path[1] = 'D:/Unity 2022.1.23f1c1/Unity Hub/2021.3.18f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'D:/Unity 2022.1.23f1c1/Unity Hub/2021.3.18f1c1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56540
+Mono path[0] = 'D:/Unity/UnityDifferentVertions/2021.3.18f1c1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/UnityDifferentVertions/2021.3.18f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Unity/UnityDifferentVertions/2021.3.18f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56720
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/Unity 2022.1.23f1c1/Unity Hub/2021.3.18f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002881 seconds.
+Register platform support module: D:/Unity/UnityDifferentVertions/2021.3.18f1c1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Unity/UnityDifferentVertions/2021.3.18f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002726 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 61.89 ms, found 3 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 55.65 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.488 seconds
+- Completed reload, in  0.426 seconds
 Domain Reload Profiling:
-	ReloadAssembly (489ms)
-		BeginReloadAssembly (77ms)
+	ReloadAssembly (426ms)
+		BeginReloadAssembly (59ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (319ms)
-			LoadAssemblies (68ms)
+			CreateAndSetChildDomain (0ms)
+		EndReloadAssembly (279ms)
+			LoadAssemblies (56ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (72ms)
+			SetupTypeCache (65ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (18ms)
-			SetupLoadedEditorAssemblies (183ms)
+			RebuildScriptCaches (15ms)
+			SetupLoadedEditorAssemblies (161ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (62ms)
+				RefreshPlugins (56ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (79ms)
-				ProcessInitializeOnLoadMethodAttributes (35ms)
+				ProcessInitializeOnLoadAttributes (70ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.012955 seconds.
+Registered in 0.011664 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\ludum dare202304\LugumDareGameJameTest\LugumDareGameJameTest\unityProject\LudumDareProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\ludum dare202304\LugumDareGameJameTest\LugumDareGameJameTest\unityProject\LudumDareProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Zhangzonshuai\Documents\GitHub\LugumDareGameJameTest\unityProject\LudumDareProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Zhangzonshuai\Documents\GitHub\LugumDareGameJameTest\unityProject\LudumDareProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 61.04 ms, found 3 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 55.62 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.988 seconds
+- Completed reload, in  0.759 seconds
 Domain Reload Profiling:
-	ReloadAssembly (988ms)
-		BeginReloadAssembly (108ms)
+	ReloadAssembly (760ms)
+		BeginReloadAssembly (83ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
+			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (14ms)
-		EndReloadAssembly (765ms)
-			LoadAssemblies (94ms)
+			CreateAndSetChildDomain (13ms)
+		EndReloadAssembly (596ms)
+			LoadAssemblies (70ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (173ms)
+			SetupTypeCache (146ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (37ms)
-			SetupLoadedEditorAssemblies (441ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (320ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (61ms)
-				BeforeProcessingInitializeOnLoad (99ms)
-				ProcessInitializeOnLoadAttributes (211ms)
-				ProcessInitializeOnLoadMethodAttributes (53ms)
-				AfterProcessingInitializeOnLoad (14ms)
+				RefreshPlugins (56ms)
+				BeforeProcessingInitializeOnLoad (65ms)
+				ProcessInitializeOnLoadAttributes (135ms)
+				ProcessInitializeOnLoadMethodAttributes (51ms)
+				AfterProcessingInitializeOnLoad (10ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4705 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (0.7 MB). Loaded Objects now: 5162.
-Memory consumption went from 191.1 MB to 190.4 MB.
-Total: 2.614500 ms (FindLiveObjects: 0.251300 ms CreateObjectMapping: 0.269200 ms MarkObjects: 1.882800 ms  DeleteObjects: 0.210400 ms)
+Unloading 41 unused Assets / (1.1 MB). Loaded Objects now: 5150.
+Memory consumption went from 190.7 MB to 189.6 MB.
+Total: 2.527500 ms (FindLiveObjects: 0.192100 ms CreateObjectMapping: 0.057000 ms MarkObjects: 1.999400 ms  DeleteObjects: 0.278300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -163,9 +166,3 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 1530.260155 seconds.
-  path: Assets/Readme.asset
-  artifactKey: Guid(8105016687592461f977c054a80ce2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Readme.asset using Guid(8105016687592461f977c054a80ce2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f8df6bccfaeea7c160e2ca3bda91111') in 0.031026 seconds 

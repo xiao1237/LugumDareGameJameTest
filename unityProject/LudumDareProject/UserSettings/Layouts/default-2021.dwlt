@@ -73,7 +73,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: ZzsUsefulLayout
+  m_LastLoadedLayoutName: 
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 322
+  controlID: 80
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 290
+  controlID: 73
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,7 +170,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 291
+  controlID: 74
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 249
+  controlID: 51
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -328,7 +328,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 334
+  controlID: 132
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -535,7 +535,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: fca2ffff82bdffffc8dcffff38e1ffff9ee1ffffc2f2ffff12fbffff
+      m_ExpandedIDs: b8b9ffff5abeffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -829,9 +829,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.002196014, y: 0.8894743, z: -0.007572502}
+    m_Target: {x: -0.9036776, y: 1.9894737, z: 0.2108587}
     speed: 2
-    m_Value: {x: 0.002196014, y: 0.8894743, z: -0.007572502}
+    m_Value: {x: -0.9036776, y: 1.9894737, z: 0.2108587}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -878,13 +878,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.038943857, y: 0.95204145, z: -0.13689406, w: -0.27087915}
+    m_Target: {x: -0.048079666, y: 0.88099456, z: -0.09179667, w: -0.46168485}
     speed: 2
-    m_Value: {x: -0.038738184, y: 0.95243955, z: -0.1369513, w: -0.26944876}
+    m_Value: {x: -0.048771057, y: 0.88083714, z: -0.093116105, w: -0.46160242}
   m_Size:
-    m_Target: 1.0875432
+    m_Target: 1.3552767
     speed: 2
-    m_Value: 1.0407113
+    m_Value: 1.3552767
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1079,23 +1079,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Plugins/Banana Yellow Games/Characters/Banana Man
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 52
   m_LastFolders:
-  - Assets/Plugins/Banana Yellow Games/Characters/Banana Man
+  - Assets/Scenes
   m_LastFoldersGridSize: 52
-  m_LastProjectPath: C:\Users\Zhangzonshuai\Documents\GitHub\ProjectOne_Hand\Journey
-    of Hand
+  m_LastProjectPath: D:\ludum dare202304\LugumDareGameJameTest\LugumDareGameJameTest\unityProject\LudumDareProject
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 50880000
-    m_LastClickedID: 34896
-    m_ExpandedIDs: 000000008a87000048880000548800006688000000ca9a3bffffff7f
+    m_SelectedIDs: feb00000
+    m_LastClickedID: 45310
+    m_ExpandedIDs: 00000000fab0000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1123,7 +1122,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008a87000000ca9a3bffffff7f
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1250,22 +1249,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Plugins/Banana Yellow Games/Characters
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Plugins/Banana Yellow Games/Characters
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Zhangzonshuai\Documents\GitHub\LugumDareGameJameTest\unityProject\LudumDareProject
+  m_LastProjectPath: D:\ludum dare202304\LugumDareGameJameTest\LugumDareGameJameTest\unityProject\LudumDareProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 66880000
-    m_LastClickedID: 34918
-    m_ExpandedIDs: 000000008a870000488800005488000000ca9a3bffffff7f
+    m_SelectedIDs: feb00000
+    m_LastClickedID: 45310
+    m_ExpandedIDs: 00000000fab0000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1293,7 +1292,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008a87000000ca9a3bffffff7f
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
